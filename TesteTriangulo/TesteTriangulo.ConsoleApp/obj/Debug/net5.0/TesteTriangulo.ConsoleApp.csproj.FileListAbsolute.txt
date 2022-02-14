@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\ref\TesteTriangulo.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\bin\Debug\net5.0\TesteTriangulo.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\ref\TesteTriangulo.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste-Triangulo\TesteTriangulo\TesteTriangulo.ConsoleApp\obj\Debug\net5.0\TesteTriangulo.ConsoleApp.genruntimeconfig.cache
